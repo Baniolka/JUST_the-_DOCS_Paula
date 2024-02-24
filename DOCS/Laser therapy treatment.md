@@ -1,7 +1,7 @@
 ---
 title: 4. Laser therapy treatment
 layout: default
-parent: Physiotherapist Protection Procedure
+parent: Physiotherapist Protection Procedure Step-by-step
 nav_order: 4
 ---
 
