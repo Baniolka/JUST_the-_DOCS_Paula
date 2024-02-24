@@ -20,6 +20,7 @@ The recommendations instruct.
   - Type of material: latex, nitrile, vinyl.
 <<<<<<< HEAD
 - Protective mask fitted tightly from the root of the nose to the chin. 
+
 ![](../images/biala-maseczka.jpg)
 =======
 
