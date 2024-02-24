@@ -5,6 +5,8 @@ parent: Physiotherapist Protection Procedure
 nav_order: 3
 ---
 
+### Stage 3 - Physiotherapy examination
+
 - The physiotherapist is obliged to carry out the physiotherapy examination with particular attention to the epidemiological interview. 
 - The information from this interview absolutely must be recorded in the medical records created by the physiotherapist. 
 - Each day, before providing health services, the physiotherapist shall conduct an epidemiological interview with the patient or ward staff according to Appendix 2 (appendix 2 - Update questionnaire).

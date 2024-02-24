@@ -5,6 +5,8 @@ parent: Physiotherapist Protection Procedure
 nav_order: 4
 ---
 
+### Stage 4 - Laser therapy treatment
+
 **4.1 Each time after working with a patient, physiotherapist should:**
 - disinfect and ventilate the rooms where physiotherapy inpatient treatment takes place;
 - disinfect tools and equipment used during treatment. 

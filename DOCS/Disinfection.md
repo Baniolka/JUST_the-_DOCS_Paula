@@ -5,6 +5,7 @@ parent: Physiotherapist Protection Procedure
 nav_order: 5
 ---
 
+### Stage 5- Disinfection
 
 **5.1 After performing the treatment, the physiotherapist should:** 
 - disinfect:
