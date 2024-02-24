@@ -2,7 +2,7 @@
 title: 3. Physiotherapy examination
 layout: default
 parent: Physiotherapist Protection Procedure
-nav_order: 1
+nav_order: 2
 ---
 
 - The physiotherapist is obliged to carry out the physiotherapy examination with particular attention to the epidemiological interview. 
