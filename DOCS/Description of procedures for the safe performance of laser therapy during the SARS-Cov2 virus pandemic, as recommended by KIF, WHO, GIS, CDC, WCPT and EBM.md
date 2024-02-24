@@ -20,7 +20,12 @@ The recommendations instruct.
 <<<<<<< HEAD
 - Protective mask fitted tightly from the root of the nose to the chin. 
 
-![mask](.../images/biala-maseczka.jpg)
+![apron](kombinezon.jpg)
+![protective visor](<protective visor.jpg>)
+![alt text](<medical gloves.jpg>)
+![mask](biala-maseczka-1.jpg)
+
+
 
 
 **1.2. Physiotherapist's obligations:**
