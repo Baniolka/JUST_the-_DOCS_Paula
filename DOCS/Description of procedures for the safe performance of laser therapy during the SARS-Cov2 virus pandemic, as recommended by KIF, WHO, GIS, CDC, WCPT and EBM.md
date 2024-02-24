@@ -21,7 +21,7 @@ The recommendations instruct.
 <<<<<<< HEAD
 - Protective mask fitted tightly from the root of the nose to the chin. 
 
-![mask](.../IMAGES/biala-maseczka.jpg)
+![mask](.../images/biala-maseczka.jpg)
 
 =======
 
