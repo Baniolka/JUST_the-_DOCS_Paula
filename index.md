@@ -8,12 +8,12 @@ The PRINTER STATUS screen includes:
 
 PRINTER STATUS tab, in which you can check the current status of the printer and the condition of the printer components (Fig. 12.2).
 Components requiring maintenance and cleaning are:
-Laser protective glass
-Recoater cord
-Print bed sealing
-Feed bed sealing
-F-Theta scanning lens
-Reflector sealing
-Recoater drive cord
-Infrared bulbs
-Recoater roller
+- Laser protective glass
+- Recoater cord
+- Print bed sealing
+- Feed bed sealing
+- F-Theta scanning lens
+- Reflector sealing
+- Recoater drive cord
+- Infrared bulbs
+- Recoater roller
