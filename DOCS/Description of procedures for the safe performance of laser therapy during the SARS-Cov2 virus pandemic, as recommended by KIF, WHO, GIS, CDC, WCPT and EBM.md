@@ -1,3 +1,8 @@
+---
+title: Coś tam coś tam
+layout: default
+---
+
 # Description of procedures for the safe performance of laser therapy during the SARS-Cov2 virus pandemic, as recommended by KIF, WHO, GIS, CDC, WCPT and EBM. <!-- omit in toc --> 
 
 
