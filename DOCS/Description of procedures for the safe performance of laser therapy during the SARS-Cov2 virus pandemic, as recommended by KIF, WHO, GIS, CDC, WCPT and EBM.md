@@ -21,9 +21,13 @@ The recommendations instruct.
 - Protective mask fitted tightly from the root of the nose to the chin. 
 
 ![apron](kombinezon.jpg)
+<img src="kombinezon.jpg" width="200" height="200"/>
 ![protective visor](<protective visor.jpg>)
+<img src="protective visor.jpg" width="200" height="200"/>
 ![alt text](<medical gloves.jpg>)
+<img src="medical gloves.jpg" width="200" height="200"/>
 ![mask](biala-maseczka-1.jpg)
+<img src="biala-maseczka-1.jpg" width="200" height="200"/>
 
 
 
