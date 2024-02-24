@@ -22,7 +22,7 @@ The recommendations instruct.
 <<<<<<< HEAD
 - Protective mask fitted tightly from the root of the nose to the chin. 
 
-![mask](http://C/GIT/fizjo/JUST_the-_DOCS_Paula/IMAGES/biala-maseczka.jpg)
+![mask](.../images/biala-maseczka.jpg)
 
 
 **1.2. Physiotherapist's obligations:**
