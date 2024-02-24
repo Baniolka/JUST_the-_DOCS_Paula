@@ -1,7 +1,8 @@
 ---
-title: Coś tam coś tam
+title: Physiotherapist Protection Procedure
 layout: default
 nav_order: 1
+has_children: true
 ---
 
 # Description of procedures for the safe performance of laser therapy during the SARS-Cov2 virus pandemic, as recommended by KIF, WHO, GIS, CDC, WCPT and EBM. <!-- omit in toc --> 
