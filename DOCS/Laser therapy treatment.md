@@ -2,7 +2,7 @@
 title: 4. Laser therapy treatment
 layout: default
 parent: Physiotherapist Protection Procedure
-nav_order: 2
+nav_order: 3
 ---
 
 **4.1 Each time after working with a patient, physiotherapist should:**
