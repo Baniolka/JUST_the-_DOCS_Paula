@@ -7,9 +7,9 @@ has_children: true
 
 ### Physiotherapist Protection Procedure:
 
-### Starting work.
+### Starting work
 
-The recommendations instruct.
+The recommendations instructions
 
 **1.1 Before starting work, the physiotherapist should protect themselves by:**
 - a long-sleeved waterproof apron,
