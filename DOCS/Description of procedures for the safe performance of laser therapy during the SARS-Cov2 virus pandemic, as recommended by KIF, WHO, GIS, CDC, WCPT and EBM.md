@@ -17,7 +17,6 @@ The recommendations instruct.
 - medical disposable gloves. 
   - Class of protection: diagnostic examinations, surgical procedures, contact with irritant substances. 
   - Type of material: latex, nitrile, vinyl.
-<<<<<<< HEAD
 - Protective mask fitted tightly from the root of the nose to the chin. 
 
 
